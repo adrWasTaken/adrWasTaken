@@ -1,6 +1,6 @@
 
 # Hey, I'm Adrian! 👋
-I'm a student software engineer interested in using programming to create fun or useful applications. I make Minecraft plugins, chrome extensions, and am always looking to collaborate and improve my skill set. I'm experienced in Java, JS, and Python. In the future, I want to learn Angular, React, C, and Swift. Also, a PSA: You are a huge loser **unless** you use emojis in commit messages.
+I'm a student software engineer interested in using programming to create fun or useful applications. I make Minecraft plugins, chrome extensions, and am always looking to collaborate and improve my skill set. I'm experienced in Java, JS, and Python, and am learning react. In the future, I want to learn Angular, C, and Swift, and probably more stuff.
 
 <br>
 
