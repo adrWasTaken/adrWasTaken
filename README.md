@@ -8,6 +8,7 @@
 - Java
 - Javascript
 - ReactJS
+- SolidJS
 
 <br>
 
